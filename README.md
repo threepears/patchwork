@@ -21,4 +21,4 @@ Yet another Patchwork repo
 * Really hot weather (like mid June in Nashville)
 * Other stuff
 
-![Fresh Prince of Bel-Air](https://dl-web.dropbox.com/get/damon/gifs/prince.gif?_subject_uid=7865248&w=AADxJcch5CV7qhsXKnnig7qVzvxCR87NEbCDstivQIe8TQ)
+![Fresh Prince of Bel-Air](https://www.dropbox.com/s/6gy4g79a0h15w51/prince.gif?dl=0)
